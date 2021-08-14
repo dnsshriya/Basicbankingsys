@@ -1,0 +1,41 @@
+
+
+footer {
+  text-align: center;
+  margin-top: auto;
+  background-color: black;
+  color: whitesmoke;
+ 
+  bottom:0px;
+  left:0px;
+  position:fixed;
+  width:100%;
+  HEIGHT:70PX;
+  padding:10px;
+  
+}
+.primary_btn {
+	width: 250px;
+  height:50px;
+  display: inline-block;
+
+ font-weight:bold;
+  padding: 0px 50px;
+  color: #000000;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 48px;
+  
+  border-radius: 15px;
+  }
+ 
+ 
+  .primary_btn:hover {
+     background: #000000;
+	   color: #ffffff;
+     }
+ .primary_btn.yellow_btn {
+    background: #fdbb00 !important;
+    border: 1px solid #fdbb00 !important;
+    color: #000000; }
